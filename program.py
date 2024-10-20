@@ -178,7 +178,7 @@ def get_dep_facet(p_collection_name):
         print(f"\nDetailed error in get_dep_facet: {e}")
 
 def main():
-    v_name_collection = "hash_vishnu52"
+    v_name_collection = "hash_vishnu58"
     v_phone_collection = "hash_5410"
     
     create_collection(v_name_collection)
